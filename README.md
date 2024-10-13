@@ -1,7 +1,8 @@
 ##Engenharia de sistemas Informáticos
-      #Redes de Computadores
-      #Trabalho Prático
-      #TP_RC_30516_30517_30518
+
+      Redes de Computadores
+      Trabalho Prático
+      TP_RC_30516_30517_30518
 
 • GRUPO I – Subnetting e NAT;
 
